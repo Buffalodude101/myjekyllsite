@@ -21,4 +21,4 @@ You can find the source code for Jekyll at GitHub:
 
 cool numbers-|cool games|cool people
 -------------|----------|-----------|
------12------|God of War| Ghandi----|
+12           |God of War| Ghandi    |
