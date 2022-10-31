@@ -20,5 +20,7 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll
 
 cool numbers-|cool games|cool people
--------------|----------|-----------|
-12           |God of War| Ghandi    |
+-------------|------------|-------------|
+12           |God of War  | Ghandi      |
+78           |Call of Duty| Keanu Reeves|
+101          |4 Square    | My dad      |
