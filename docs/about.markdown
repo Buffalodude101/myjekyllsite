@@ -26,3 +26,4 @@ cool numbers-|cool games|cool people
 101          |4 Square    | My dad      |
 
 [![picture](https://www.pexels.com/@pixabay/](anchor link)
+<img src="https://www.pexels.com/@pixabay/" alt="picture">
