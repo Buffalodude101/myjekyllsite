@@ -25,4 +25,4 @@ cool numbers-|cool games|cool people
 78           |Call of Duty| Keanu Reeves|
 101          |4 Square    | My dad      |
 
-(pictur.png)
+[![image alt text](pictur.png)](anchor link)
